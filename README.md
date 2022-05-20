@@ -1,4 +1,4 @@
-## User issue [#18506](https://github.com/Azure/azure-sdk-for-js/issues/18270)
+## User issue [#18506](https://github.com/Azure/azure-sdk-for-js/issues/18506)
 
 ### Steps to run the sample that uses ServiceBusAdministrationClient
 
